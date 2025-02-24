@@ -6,4 +6,3 @@ This repository explain how to use asdf as version management tool.
 python hello_world.py
 
 ```
-
